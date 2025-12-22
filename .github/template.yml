@@ -1,14 +1,3 @@
 template-repository: jebel-quant/rhiza
 include:
-    - .devcontainer/
-    - .github/
-    - tests/
-    - .editorconfig
-    - .pre-commit-config.yaml
-    - CODE_OF_CONDUCT.md
-    - CONTRIBUTING.md
-    - LICENSE
-    - Makefile
-    - ruff.toml
-exclude:
-    - .github/workflows/docker.yml
+- .github
