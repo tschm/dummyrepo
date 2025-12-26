@@ -12,5 +12,7 @@ include:
     - ruff.toml
     - book
     - presentation
+    - renovate.json
+    - rhiza
 exclude:
     - .github/workflows/docker.yml
